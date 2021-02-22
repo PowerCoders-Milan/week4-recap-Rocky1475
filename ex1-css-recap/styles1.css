@@ -1,0 +1,10 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+.items {
+    display: grid;
+    grid-column: 20px auto auto auto;
+    grid-row: auto auto auto auto;
+
+}

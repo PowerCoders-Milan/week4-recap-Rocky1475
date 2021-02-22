@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-color: rgb(218, 194, 241);
+}
+
+.all {
+    text-align: center;
+    background-color: rgb(168, 167, 167);
+    height: 80vh;
+     
+}
+
+.head {
+    text-shadow: 8px 4px 15px #0f0f0f;
+    font-size: 40px;
+    font-family: fantasy, 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    
+     
+}
+
+.text {
+    font-family: cursive, 'Times New Roman', Times, serif;
+    
+}
+h1 {
+    margin: 0px;
+}
+.button {
+
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 15px;
+   
+}
+
