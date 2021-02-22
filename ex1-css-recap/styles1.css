@@ -4,7 +4,6 @@
 }
 .items {
     display: grid;
-    grid-column: 20px auto auto auto;
-    grid-row: auto auto auto auto;
-
-}
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+   }
