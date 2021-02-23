@@ -10,7 +10,8 @@ body{
 .all {
     text-align: center;
     background-color: rgb(168, 167, 167);
-    height: 80vh;
+    height: 30vh;
+    padding: 200px;
      
 }
 
