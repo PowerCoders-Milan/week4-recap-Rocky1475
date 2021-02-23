@@ -18,46 +18,56 @@
     background-color: rgb(196, 179, 179);
     grid-column-gap: 70px;
     grid-row-gap: 70px;
-    padding-top: 25px;
-    padding-bottom: 70px;
+    padding-top: 5px;
     padding: 70px;
     height: 70vh;
     border-radius: 10px;
     text-align: center;
     }
 .item1 {
-    background-color: green;
+
+    background-color: hotpink;
+    text-align: center;
+    border-radius: 30px;
+    height: 90px;
+    height: 60%;
+    padding-top: 30%
+}
+button {
+    outline: none; 
+    text-align: center;
+    color: chartreuse;
+    padding: 10px;
+    border-radius: 25px;
+}
+.item2 {
+    background-color: hotpink;
     text-align: center;
     border-radius: 30px;
     height: 60%;
     padding-top: 30%;
-    
-}
-.item2 {
-    background-color: greenyellow;
-    text-align: center;
 }
 .item3 {
     background-color: hotpink;
     text-align: center;
 }
 .item4 {
-    background-color: indigo;
+    background-color: hotpink;
     text-align: center;
 }
 .item5 {
-    background-color: lightblue;
+    background-color: hotpink;
     text-align: center;
 }
 .item6 {
-    background-color: brown;
+    background-color :hotpink;
     text-align: center;
 }
 .item7 {
-    background-color: cadetblue;
+    background-color: hotpink;
     text-align: center;
 }
 .item8 {
-    background-color: goldenrod;
+    background-color: hotpink;
     text-align: center;
 }
